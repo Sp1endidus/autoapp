@@ -1,4 +1,3 @@
-# autoapp
 Auto start arbitrary program.
 
 USAGE:
