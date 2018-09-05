@@ -1,0 +1,6 @@
+app=explorer
+appargs=C:\Program Files (x86)\VMware\VMware Horizon View Client\vmware-view.exe
+apptocheck=vmware-view
+vpn=C:\Program Files (x86)\Cisco\Cisco AnyConnect Secure Mobility Client\vpnui.exe
+vpnargs=-connect vpn.s7.ru
+checkaddr=emc-nas21p01.group.s7

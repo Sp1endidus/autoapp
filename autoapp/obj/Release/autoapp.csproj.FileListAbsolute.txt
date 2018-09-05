@@ -1,0 +1,6 @@
+D:\Projects\_VS\autoapp\autoapp\bin\Release\autoapp.exe.config
+D:\Projects\_VS\autoapp\autoapp\bin\Release\autoapp.exe
+D:\Projects\_VS\autoapp\autoapp\bin\Release\autoapp.pdb
+D:\Projects\_VS\autoapp\autoapp\obj\Release\autoapp.csprojResolveAssemblyReference.cache
+D:\Projects\_VS\autoapp\autoapp\obj\Release\autoapp.exe
+D:\Projects\_VS\autoapp\autoapp\obj\Release\autoapp.pdb
